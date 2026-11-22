@@ -1,0 +1,62 @@
+[
+ {
+  "id": 191446,
+  "name": "邪神改",
+  "displayName": "邪神改·纳西妲",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/char4",
+  "image": "Covers/char4.png",
+  "pmx": "恶堕草神.pmx",
+  "base": "https://carlutic.github.io/paperplane_31/",
+  "noPhysics": true
+ },
+ {
+  "id": 191447,
+  "name": "银狼",
+  "displayName": "银狼 lv999 yuyu - Silver Wolf LV.999",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/char6",
+  "image": "Covers/char6.png",
+  "pmx": "Silver Wolf LV.999.pmx",
+  "base": "https://carlutic.github.io/paperplane_31/",
+  "noPhysics": true
+ },
+ {
+  "id": 191448,
+  "name": "阿蕾奇诺",
+  "displayName": "阿蕾奇诺-佩露薇利 by tdzg",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/char13",
+  "image": "Covers/char13.png",
+  "pmx": "佩露薇利 R18.pmx",
+  "base": "https://carlutic.github.io/paperplane_31/",
+  "noPhysics": true
+ },
+ {
+  "id": 191449,
+  "name": "陈千语",
+  "displayName": "陈千语 by qmsx - 陈千语素体1.01",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/char14",
+  "image": "Covers/char14.png",
+  "pmx": "陈千语素体1.01.pmx",
+  "base": "https://carlutic.github.io/paperplane_31/",
+  "noPhysics": true
+ }
+]
