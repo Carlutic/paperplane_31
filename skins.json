@@ -11,8 +11,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "恶堕草神.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 191447,
@@ -26,8 +25,7 @@
   "directory": "chars/char6",
   "image": "Covers/char6.png",
   "pmx": "Silver Wolf LV.999.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 191448,
@@ -41,8 +39,7 @@
   "directory": "chars/char13",
   "image": "Covers/char13.png",
   "pmx": "佩露薇利 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 191449,
@@ -56,7 +53,6 @@
   "directory": "chars/char14",
   "image": "Covers/char14.png",
   "pmx": "陈千语素体1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  }
 ]
