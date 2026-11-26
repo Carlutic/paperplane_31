@@ -11,8 +11,7 @@
   "directory": "chars/char0",
   "image": "Covers/char0.png",
   "pmx": "DeniaVer1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190323,
@@ -26,8 +25,7 @@
   "directory": "chars/char1",
   "image": "Covers/char1.png",
   "pmx": "TohsakaRin Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190324,
@@ -41,8 +39,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "夜兰素体1.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190325,
@@ -56,8 +53,7 @@
   "directory": "chars/char3",
   "image": "Covers/char3.png",
   "pmx": "爱宕赛车皮1.3.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190326,
@@ -71,8 +67,7 @@
   "directory": "chars/char41",
   "image": "Covers/char41.png",
   "pmx": "高雄1.3.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190327,
@@ -86,8 +81,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "镇海2.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190328,
@@ -101,8 +95,7 @@
   "directory": "chars/char6",
   "image": "Covers/char6.png",
   "pmx": "Silver Wolf LV.999+IK.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190329,
@@ -116,8 +109,7 @@
   "directory": "chars/char7",
   "image": "Covers/char7.png",
   "pmx": "Iori_Bunny_Hi_0.6.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190330,
@@ -131,8 +123,7 @@
   "directory": "chars/char8",
   "image": "Covers/char8.png",
   "pmx": "长离-赛车服ver1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190331,
@@ -146,8 +137,7 @@
   "directory": "chars/char9",
   "image": "Covers/char9.png",
   "pmx": "阿尔萨斯_舰装 FFNF Alsace_Shipboard outfit【碧蓝航线 Azur Lane】.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190332,
@@ -161,8 +151,7 @@
   "directory": "chars/char10",
   "image": "Covers/char10.png",
   "pmx": "Hifumi_Bunny_Hi_0.5.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190333,
@@ -176,8 +165,7 @@
   "directory": "chars/char11",
   "image": "Covers/char11.png",
   "pmx": "阿波尼亚·丰满版v1.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190334,
@@ -191,8 +179,7 @@
   "directory": "chars/char12",
   "image": "Covers/char12.png",
   "pmx": "仆人 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190335,
@@ -206,8 +193,7 @@
   "directory": "chars/char131",
   "image": "Covers/char131.png",
   "pmx": "老陈1.2.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  },
  {
   "id": 190336,
@@ -221,7 +207,6 @@
   "directory": "chars/char14",
   "image": "Covers/char14.png",
   "pmx": "陈千语1.01.pmx",
-  "base": "https://carlutic.github.io/paperplane_31/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_31/"
  }
 ]
